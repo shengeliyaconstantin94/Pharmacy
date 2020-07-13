@@ -1,0 +1,45 @@
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\bin\Debug\Apteka.exe.config
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\bin\Debug\Apteka.exe
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\bin\Debug\Apteka.pdb
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.csprojResolveAssemblyReference.cache
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.LoginForm.resources
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.Properties.Resources.resources
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.csproj.GenerateResource.Cache
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.exe
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.pdb
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\bin\Debug\DB.mdf
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\bin\Debug\DB_log.ldf
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.EditForm.resources
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.Main.resources
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.Prod.resources
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\bin\Debug\EntityFramework.dll
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\bin\Debug\EntityFramework.xml
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.Postavk.resources
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.Poisk.resources
+C:\Users\Чижова\Desktop\Аптека\Apteka\Apteka\obj\Debug\Apteka.Kassa.resources
+E:\Аптека\Apteka\Apteka\bin\Debug\Apteka.exe.config
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.exe
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.pdb
+E:\Аптека\Apteka\Apteka\bin\Debug\DB.mdf
+E:\Аптека\Apteka\Apteka\bin\Debug\DB_log.ldf
+E:\Аптека\Apteka\Apteka\bin\Debug\Apteka.exe
+E:\Аптека\Apteka\Apteka\bin\Debug\Apteka.pdb
+E:\Аптека\Apteka\Apteka\bin\Debug\EntityFramework.dll
+E:\Аптека\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.dll
+E:\Аптека\Apteka\Apteka\bin\Debug\EntityFramework.xml
+E:\Аптека\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.xml
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.csprojResolveAssemblyReference.cache
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.EditForm.resources
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.LoginForm.resources
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.Kassa.resources
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.Main.resources
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.Poisk.resources
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.Postavk.resources
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.Prod.resources
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.Properties.Resources.resources
+E:\Аптека\Apteka\Apteka\obj\Debug\Apteka.csproj.GenerateResource.Cache
+C:\Users\Чижова\Desktop\Мои программы\Аптека\Apteka\Apteka\bin\Debug\Apteka.exe.config
+C:\Users\Чижова\Desktop\Мои программы\Аптека\Apteka\Apteka\obj\Debug\Apteka.exe
+C:\Users\Чижова\Desktop\Мои программы\Аптека\Apteka\Apteka\obj\Debug\Apteka.pdb
